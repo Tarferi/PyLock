@@ -5,8 +5,10 @@ Starcraft Map Time Locking
 
 Since the sources for map time locking are already public in QCHK, it makes sense to make PyLock project public as well. Note that this doesn't provide enough protection by itself, maps need to be locked to prevent others from stripping the lock from the map.
 
-This contains archive for the latest development version of the project.<br />
-This project contains also sources for the DLL file, because there are no crackers inside
+This contains the latest development version of the project.
+
+This project contains also sources for the DLL file, because there are no crackers inside.
+
 This source contains unreleased features, with some bugs created, removed, or worse, undetermined.
 
 
