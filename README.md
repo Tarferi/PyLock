@@ -1,6 +1,8 @@
 # PyLock
 Starcraft Map Time Locking 
+
 [The official thread](http://www.staredit.net/topic/17839/)
+
 Since the sources for map time locking are already public in QCHK, it makes sense to make PyLock project public as well. Note that this doesn't provide enough protection by itself, maps need to be locked to prevent others from stripping the lock from the map.
 
 This contains archive for the latest development version of the project.<br />
@@ -11,9 +13,13 @@ This source contains unreleased features, with some bugs created, removed, or wo
 Usage:
 
 -i <input_file> Input map file
+
 -o <output_file> Output map file (can be the same as output)
+
 -f <unlock_begin> Relative specification of unlock begin (see below)
+
 -t <unlock_end> Relative specification of unlock end (see below)
+
 -m <message> Message to display when map is locked (see below)
 
 Date format:
